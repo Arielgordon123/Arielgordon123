@@ -28,3 +28,5 @@ Hi there, I'm Ariel 👋     | ⚡ Fun fact
 <a href="https://www.wireshark.org/" target="wireshark"> <img src="https://user-images.githubusercontent.com/66886354/147272381-c39e5aa2-3fd9-4a4d-ab9d-4c4c224b29ab.png" alt="wireshark" width="40" height="40"/> 
 </div>
  -->
+ 
+ ![](https://komarev.com/ghpvc/?username=arielgordon123&color=2b2139)
